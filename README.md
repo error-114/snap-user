@@ -1,6 +1,5 @@
 # snap-user
-#Author Error-114
-#my telegram https://t.me/i4m_qamar
+# telegram https://t.me/i4m_qamar
 
 # pkg install python
 # pkg install git
