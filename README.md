@@ -4,6 +4,6 @@
 
 $ pkg install python
 $ pkg install git
-$ git clone 
+# git clone https://github.com/error-114/snap-user 
 $ cd snap-user
-$ python3 ba7ri-sc.py
+# python3 ba7ri-sc.py
